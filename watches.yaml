@@ -1,0 +1,4 @@
+version: helm.operator-sdk/v1alpha1
+group: helm.operator-sdk
+kind: Metabase
+chart: helm-charts/metabase
